@@ -1,0 +1,32 @@
+            |**** 11/9/2011: Start script program filestat.exe ** (V:4.9.2.0) **
+            |
+            |Let IniName = "C:\KCFtp\StCroixFTP.ini"
+            |OpenIniFile "C:\KCFtp\StCroixFTP.ini"
+            |ReadIniFile HOSTNAME "HostInfo" "HostName"
+            |ReadIniFile SLSREPNO "SalesRepInfo" "SalesRepNumber"
+            |ReadIniFile SLSREPNAME "SalesRepInfo" "SalesRepName"
+            |ReadIniFile SLSREPLOGIN "SalesRepInfo" "SalesRepLogin"
+            |ReadIniFile LOCALDOWNLOAD "FileInfo" "LocalDownLoad"
+            |ReadIniFile LOCALUPLOAD "FileInfo" "LocalUpLoad"
+            |ReadIniFile REMOTEDOWNLOAD "FileInfo" "RemoteDownLoad"
+            |ReadIniFile REMOTEUPLOAD "FileInfo" "RemoteUpLoad"
+            |CloseIniFile
+            |Let SlsRepPass = ""
+            |Host=""
+            |Port=21
+            |User=""
+            |Password <hidden>
+            |Timeout=60
+            |Let AMessage = "Please Connect to Knitcraft Corporation"
+            |Let AMesaage = "Please Connect to Knitcraft Corporation using Dial-up"
+            |Hideinfo 10
+            |Hideinfo 10
+            |Let AMessage = "The transfer was not successful, Please try later."
+            |Let AMessage = "The transfer was not successful, Please try later. If the problem persists"
+            |Let AMessage = "The transfer was not successful, Please try later. If the problem persists please call Knitcraft Support."
+            |Disconnect
+            |---> Error: Not connected to a server!
+            |Hangup
+            |
+            |**** 11/9/2011: End script EXE filestat.exe ****
+            |

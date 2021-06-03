@@ -1,0 +1,1188 @@
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\Interop.ADOR.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\Interop.ADOX.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\Interop.MSChart20Lib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\Interop.MSComCtl2.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\Interop.MSDataGridLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\Interop.MSDataListLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\Interop.MSHierarchicalFlexGridLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\Interop.MSWinsockLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\AxInterop.InetCtlsObjects.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\AxInterop.Microsoft.Office.Interop.OutlookViewCtl.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\AxInterop.MSChart20Lib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\AxInterop.MSComCtl2.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\AxInterop.MSDataGridLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\AxInterop.MSDataListLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\AxInterop.MSHierarchicalFlexGridLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\SaleForc.mdb
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\Interop.ADOR.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\Interop.ADOX.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\Interop.InetCtlsObjects.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\Interop.IWshRuntimeLibrary.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\Interop.MSChart20Lib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\Interop.MSComCtl2.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\Interop.MSDataGridLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\Interop.MSDataListLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\Interop.MSFlexGridLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\Interop.MSHierarchicalFlexGridLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\Interop.MSWinsockLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\AxInterop.InetCtlsObjects.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\AxInterop.Microsoft.Office.Interop.OutlookViewCtl.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\AxInterop.MSChart20Lib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\AxInterop.MSComCtl2.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\AxInterop.MSDataGridLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\AxInterop.MSDataListLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\AxInterop.MSFlexGridLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\AxInterop.MSHierarchicalFlexGridLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\bin\AxInterop.MSWinsockLib.dll
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmAbout.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmConnect.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmCustItemRpt.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmCustomerUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmCustShipUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmInventory.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmPreviousWkstOrder.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmSetItineraryDate.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmShowGif.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmSplash.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmMainScreen.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmItem.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmWSDefaults.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmSalesPerson.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmCustInfo.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmCustList.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmCreateNewWs.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmOrders.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmWorksheet.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmSeasonSelect.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmErrMsgList.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmWsToXmitList.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmFilesToImportList.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmWsSentViaProComm.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmXmitButNoVal.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmListOrder.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmListWs.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmAvailInv.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.ListViewComparer.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmPurgeDB.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmShipViaSelect.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmResetXmit.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.Resources.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.frmPreviewCustList.resources
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce .NET\obj\Debug\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce.NET\bin\KC01.exe.config
+C:\Users\Kenm\Desktop\Salesforce.NET\bin\KC01.exe.manifest
+C:\Users\Kenm\Desktop\Salesforce.NET\bin\KC01.application
+C:\Users\Kenm\Desktop\Salesforce.NET\bin\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce.NET\bin\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce.NET\bin\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce.NET\bin\MTGCCombobox.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\bin\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmPreviewCustList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmPreviewWksht.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmAbout.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmCustItemRpt.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmCustomerUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmCustShipUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmPreviousWkstOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmSetItineraryDate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmSplash.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmMainScreen.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmWSDefaults.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmSalesPerson.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmCustInfo.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmCustList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmOrders.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmWorksheet.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmSeasonSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmErrMsgList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmWsToXmitList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmFilesToImportList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmWsSentViaProComm.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmXmitButNoVal.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmListOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmListWs.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmOrdCodeSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmPurgeDB.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmShipViaSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmResetXmit.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.Resources.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.exe.manifest
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.application
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmPreviewWkstErr.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.frmInventory.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\obj\Debug\KC01.exe.licenses
+C:\Users\Kenm\Desktop\Salesforce.NET\bin\Calendar.DayView.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\bin\SaleForc.mdb
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\bin\SaleForc.mdb
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\bin\KC01.exe.config
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\bin\KC01.exe.manifest
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\bin\KC01.application
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\bin\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\bin\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\bin\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\bin\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmInventory.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmPreviewWkstErr.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmPreviewCustList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmPreviewWksht.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmAbout.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmCustItemRpt.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmCustomerUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmCustShipUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmPreviousWkstOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmSetItineraryDate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmSplash.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmMainScreen.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmWSDefaults.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmSalesPerson.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmCustInfo.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmCustList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmOrders.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmWorksheet.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmSeasonSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmErrMsgList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmWsToXmitList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmFilesToImportList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmWsSentViaProComm.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmXmitButNoVal.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmListOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmListWs.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmOrdCodeSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmPurgeDB.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmShipViaSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.frmResetXmit.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.Resources.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.exe.licenses
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.exe.manifest
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.application
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce.NET\12-Jul-2012\obj\Debug\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\bin\SaleForc.mdb
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\bin\KC01.exe.config
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\bin\KC01.exe.manifest
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\bin\KC01.application
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\bin\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\bin\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\bin\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\bin\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmInventory.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmPreviewWkstErr.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmPreviewCustList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmPreviewWksht.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmAbout.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmCustItemRpt.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmCustomerUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmCustShipUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmPreviousWkstOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmSetItineraryDate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmSplash.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmMainScreen.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmWSDefaults.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmSalesPerson.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmCustInfo.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmCustList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmOrders.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmWorksheet.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmSeasonSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmErrMsgList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmWsToXmitList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmFilesToImportList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmWsSentViaProComm.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmXmitButNoVal.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmListOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmListWs.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmOrdCodeSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmPurgeDB.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmShipViaSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.frmResetXmit.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.Resources.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.exe.licenses
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.exe.manifest
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.application
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\bin\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\bin\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\bin\Interop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\bin\AxInterop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\16-Jul-2012\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\bin\SaleForc.mdb
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\bin\KC01.exe.config
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\bin\KC01.exe.manifest
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\bin\KC01.application
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\bin\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\bin\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\bin\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\bin\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\bin\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\bin\Interop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\bin\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\bin\AxInterop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmInventory.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmPreviewWkstErr.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmPreviewCustList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmPreviewWksht.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmAbout.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmCustItemRpt.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmCustomerUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmCustShipUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmPreviousWkstOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmSetItineraryDate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmSplash.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmMainScreen.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmWSDefaults.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmSalesPerson.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmCustInfo.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmCustList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmOrders.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmWorksheet.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmSeasonSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmErrMsgList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmWsToXmitList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmFilesToImportList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmWsSentViaProComm.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmXmitButNoVal.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmListOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmListWs.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmOrdCodeSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmPurgeDB.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmShipViaSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.frmResetXmit.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.Resources.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.exe.licenses
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.exe.manifest
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.application
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce.NET\22-Aug-2012\obj\Debug\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\bin\SaleForc.mdb
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\bin\KC01.exe.config
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\bin\KC01.exe.manifest
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\bin\KC01.application
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\bin\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\bin\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\bin\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\bin\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\bin\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\bin\Interop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\bin\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\bin\AxInterop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmInventory.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmPreviewWkstErr.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmPreviewCustList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmPreviewWksht.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmAbout.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmCustItemRpt.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmCustomerUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmCustShipUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmPreviousWkstOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmSetItineraryDate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmSplash.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmMainScreen.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmWSDefaults.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmSalesPerson.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmCustInfo.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmCustList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmOrders.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmWorksheet.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmSeasonSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmErrMsgList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmWsToXmitList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmFilesToImportList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmWsSentViaProComm.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmXmitButNoVal.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmListOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmListWs.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmOrdCodeSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmPurgeDB.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmShipViaSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.frmResetXmit.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.Resources.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.exe.licenses
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.exe.manifest
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.application
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce.NET\29-Aug-2012\obj\Debug\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\bin\SaleForc.mdb
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\bin\KC01.exe.config
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\bin\KC01.exe.manifest
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\bin\KC01.application
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\bin\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\bin\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\bin\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\bin\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\bin\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\bin\Interop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\bin\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\bin\AxInterop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmInventory.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmPreviewWkstErr.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmPreviewCustList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmPreviewWksht.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmAbout.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmCustItemRpt.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmCustomerUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmCustShipUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmPreviousWkstOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmSetItineraryDate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmSplash.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmMainScreen.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmWSDefaults.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmSalesPerson.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmCustInfo.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmCustList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmOrders.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmWorksheet.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmSeasonSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmErrMsgList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmWsToXmitList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmFilesToImportList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmWsSentViaProComm.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmXmitButNoVal.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmListOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmListWs.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmOrdCodeSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmPurgeDB.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmShipViaSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.frmResetXmit.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.Resources.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.exe.licenses
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.exe.manifest
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.application
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce.NET\4-Sep-2012\obj\Debug\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\bin\SaleForc.mdb
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\bin\KC01.exe.config
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\bin\KC01.exe.manifest
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\bin\KC01.application
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\bin\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\bin\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\bin\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\bin\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\bin\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\bin\Interop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\bin\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\bin\AxInterop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmInventory.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmPreviewWkstErr.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmPreviewCustList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmPreviewWksht.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmAbout.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmCustItemRpt.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmCustomerUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmCustShipUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmPreviousWkstOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmSetItineraryDate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmSplash.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmMainScreen.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmWSDefaults.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmSalesPerson.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmCustInfo.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmCustList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmOrders.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmWorksheet.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmSeasonSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmErrMsgList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmWsToXmitList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmFilesToImportList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmWsSentViaProComm.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmXmitButNoVal.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmListOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmListWs.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmOrdCodeSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmPurgeDB.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmShipViaSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.frmResetXmit.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.Resources.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.exe.licenses
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.exe.manifest
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.application
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce.NET\20120926\obj\Debug\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\bin\SaleForc.mdb
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\bin\KC01.exe.config
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\bin\KC01.exe.manifest
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\bin\KC01.application
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\bin\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\bin\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\bin\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\bin\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\bin\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\bin\Interop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\bin\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\bin\AxInterop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmInventory.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmPreviewWkstErr.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmPreviewCustList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmPreviewWksht.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmAbout.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmCustItemRpt.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmCustomerUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmCustShipUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmPreviousWkstOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmSetItineraryDate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmSplash.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmMainScreen.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmWSDefaults.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmSalesPerson.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmCustInfo.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmCustList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmOrders.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmWorksheet.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmSeasonSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmErrMsgList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmWsToXmitList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmFilesToImportList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmWsSentViaProComm.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmXmitButNoVal.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmListOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmListWs.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmOrdCodeSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmPurgeDB.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmShipViaSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.frmResetXmit.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.Resources.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.exe.licenses
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.exe.manifest
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.application
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce.NET\20121018\obj\Debug\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\bin\SaleForc.mdb
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\bin\KC01.exe.config
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\bin\KC01.exe.manifest
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\bin\KC01.application
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\bin\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\bin\KC01.pdb
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\bin\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\bin\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\bin\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\bin\Interop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\bin\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\bin\AxInterop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\Interop.JRO.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmInventory.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmPreviewWkstErr.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmPreviewCustList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmPreviewWksht.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmAbout.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmCustItemRpt.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmCustomerUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmCustShipUpdate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmPreviousWkstOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmSetItineraryDate.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmSplash.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmMainScreen.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmWSDefaults.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmSalesPerson.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmCustInfo.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmCustList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmOrders.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmWorksheet.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmSeasonSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmErrMsgList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmWsToXmitList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmFilesToImportList.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmWsSentViaProComm.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmXmitButNoVal.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmListOrder.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmListWs.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmOrdCodeSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmPurgeDB.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmShipViaSelect.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.frmResetXmit.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.Resources.resources
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.exe.licenses
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.exe.manifest
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.application
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.exe
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.xml
+C:\Users\Kenm\Desktop\Salesforce.NET\20131206\obj\Debug\KC01.pdb
+F:\Data\IT\Development\Salesforce.NET\20140724\bin\SaleForc.mdb
+F:\Data\IT\Development\Salesforce.NET\20140724\bin\KC01.exe.config
+F:\Data\IT\Development\Salesforce.NET\20140724\bin\KC01.exe.manifest
+F:\Data\IT\Development\Salesforce.NET\20140724\bin\KC01.application
+F:\Data\IT\Development\Salesforce.NET\20140724\bin\KC01.exe
+F:\Data\IT\Development\Salesforce.NET\20140724\bin\KC01.pdb
+F:\Data\IT\Development\Salesforce.NET\20140724\bin\KC01.xml
+F:\Data\IT\Development\Salesforce.NET\20140724\bin\Interop.JRO.dll
+F:\Data\IT\Development\Salesforce.NET\20140724\bin\Interop.ShockwaveFlashObjects.dll
+F:\Data\IT\Development\Salesforce.NET\20140724\bin\Interop.WMPLib.dll
+F:\Data\IT\Development\Salesforce.NET\20140724\bin\AxInterop.ShockwaveFlashObjects.dll
+F:\Data\IT\Development\Salesforce.NET\20140724\bin\AxInterop.WMPLib.dll
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\ResolveAssemblyReference.cache
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\Interop.JRO.dll
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\Interop.WMPLib.dll
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\AxInterop.WMPLib.dll
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmInventory.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmPreviewWkstErr.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmPreviewCustList.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmPreviewWksht.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmAbout.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmCustItemRpt.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmCustomerUpdate.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmCustShipUpdate.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmPreviousWkstOrder.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmSetItineraryDate.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmSplash.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmMainScreen.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmWSDefaults.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmSalesPerson.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmCustInfo.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmCustList.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmOrders.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmWorksheet.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmSeasonSelect.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmErrMsgList.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmWsToXmitList.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmFilesToImportList.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmWsSentViaProComm.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmXmitButNoVal.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmListOrder.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmListWs.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmOrdCodeSelect.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmPurgeDB.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmShipViaSelect.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.frmResetXmit.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.Resources.resources
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.exe.licenses
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.exe.manifest
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.application
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.exe
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.xml
+F:\Data\IT\Development\Salesforce.NET\20140724\obj\Debug\KC01.pdb
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\ResolveAssemblyReference.cache
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\Interop.JRO.dll
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\Interop.WMPLib.dll
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\AxInterop.WMPLib.dll
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmPreviewWkstErr.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmPreviewCustList.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmPreviewWksht.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmAbout.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmCustItemRpt.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmCustomerUpdate.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmCustShipUpdate.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmPreviousWkstOrder.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmSetItineraryDate.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmSplash.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmMainScreen.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmWSDefaults.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmSalesPerson.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmCustInfo.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmCustList.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmOrders.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmWorksheet.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmSeasonSelect.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmErrMsgList.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmWsToXmitList.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmFilesToImportList.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmWsSentViaProComm.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmXmitButNoVal.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmListOrder.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmListWs.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmOrdCodeSelect.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmPurgeDB.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmShipViaSelect.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.frmResetXmit.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.Resources.resources
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.exe
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.xml
+F:\Data\IT\Development\Salesforce.NET\20140724 - Copy\obj\Debug\KC01.pdb
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\ResolveAssemblyReference.cache
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\Interop.JRO.dll
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\Interop.WMPLib.dll
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\AxInterop.WMPLib.dll
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmPreviewWkstErr.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmPreviewCustList.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmPreviewWksht.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmAbout.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmCustItemRpt.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmCustomerUpdate.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmCustShipUpdate.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmPreviousWkstOrder.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmSetItineraryDate.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmSplash.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmMainScreen.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmWSDefaults.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmSalesPerson.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmCustInfo.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmCustList.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmOrders.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmWorksheet.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmSeasonSelect.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmErrMsgList.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmWsToXmitList.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmFilesToImportList.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmWsSentViaProComm.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmXmitButNoVal.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmListOrder.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmListWs.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmOrdCodeSelect.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmPurgeDB.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmShipViaSelect.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.frmResetXmit.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.Resources.resources
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.exe
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.xml
+F:\Data\IT\Development\Salesforce.NET\20150710\obj\Debug\KC01.pdb
+F:\Data\IT\Development\Salesforce.NET\20160111\bin\SaleForc.mdb
+F:\Data\IT\Development\Salesforce.NET\20160111\bin\KC01.exe.config
+F:\Data\IT\Development\Salesforce.NET\20160111\bin\KC01.exe.manifest
+F:\Data\IT\Development\Salesforce.NET\20160111\bin\KC01.application
+F:\Data\IT\Development\Salesforce.NET\20160111\bin\KC01.exe
+F:\Data\IT\Development\Salesforce.NET\20160111\bin\KC01.pdb
+F:\Data\IT\Development\Salesforce.NET\20160111\bin\KC01.xml
+F:\Data\IT\Development\Salesforce.NET\20160111\bin\Office.dll
+F:\Data\IT\Development\Salesforce.NET\20160111\bin\Interop.JRO.dll
+F:\Data\IT\Development\Salesforce.NET\20160111\bin\Interop.ShockwaveFlashObjects.dll
+F:\Data\IT\Development\Salesforce.NET\20160111\bin\Interop.WMPLib.dll
+F:\Data\IT\Development\Salesforce.NET\20160111\bin\AxInterop.ShockwaveFlashObjects.dll
+F:\Data\IT\Development\Salesforce.NET\20160111\bin\AxInterop.WMPLib.dll
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\ResolveAssemblyReference.cache
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\Interop.JRO.dll
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\Interop.WMPLib.dll
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\AxInterop.WMPLib.dll
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmInventory.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmPreviewWkstErr.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmPreviewCustList.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmPreviewWksht.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmAbout.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmCustItemRpt.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmCustomerUpdate.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmCustShipUpdate.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmPreviousWkstOrder.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmSetItineraryDate.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmSplash.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmMainScreen.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmWSDefaults.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmSalesPerson.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmCustInfo.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmCustList.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmOrders.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmWorksheet.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmSeasonSelect.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmErrMsgList.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmWsToXmitList.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmFilesToImportList.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmWsSentViaProComm.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmXmitButNoVal.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmListOrder.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmListWs.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmOrdCodeSelect.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmPurgeDB.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmShipViaSelect.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.frmResetXmit.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.Resources.resources
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.exe.licenses
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.TrustInfo.xml
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.exe.manifest
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.application
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.exe
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.xml
+F:\Data\IT\Development\Salesforce.NET\20160111\obj\Debug\KC01.pdb
+F:\Data\IT\Development\Salesforce.NET\20160111\bin\Microsoft.Office.Interop.Access.dll
+F:\Data\IT\Development\Salesforce.NET\20160111\bin\dao.dll
+F:\Data\IT\Development\Salesforce.NET\20160111\bin\Microsoft.Vbe.Interop.dll
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\ResolveAssemblyReference.cache
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\Interop.JRO.dll
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmInventory.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmPreviewWkstErr.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmPreviewCustList.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmPreviewWksht.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmAbout.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmCustItemRpt.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmCustomerUpdate.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmCustShipUpdate.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmPreviousWkstOrder.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmSetItineraryDate.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmSplash.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmMainScreen.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmWSDefaults.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmSalesPerson.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmCustList.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmOrders.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmWorksheet.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmSeasonSelect.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmErrMsgList.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmWsToXmitList.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmFilesToImportList.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmWsSentViaProComm.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmXmitButNoVal.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmListOrder.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmListWs.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmOrdCodeSelect.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmPurgeDB.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmShipViaSelect.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmResetXmit.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.Resources.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.exe.licenses
+F:\Data\IT\Development\Salesforce.NET\20170509\bin\SaleForc.mdb
+F:\Data\IT\Development\Salesforce.NET\20170509\bin\KC01.exe.config
+F:\Data\IT\Development\Salesforce.NET\20170509\bin\KC01.exe
+F:\Data\IT\Development\Salesforce.NET\20170509\bin\KC01.pdb
+F:\Data\IT\Development\Salesforce.NET\20170509\bin\KC01.xml
+F:\Data\IT\Development\Salesforce.NET\20170509\bin\AxInterop.ShockwaveFlashObjects.dll
+F:\Data\IT\Development\Salesforce.NET\20170509\bin\Microsoft.Office.Interop.Access.dll
+F:\Data\IT\Development\Salesforce.NET\20170509\bin\Office.dll
+F:\Data\IT\Development\Salesforce.NET\20170509\bin\dao.dll
+F:\Data\IT\Development\Salesforce.NET\20170509\bin\Microsoft.Vbe.Interop.dll
+F:\Data\IT\Development\Salesforce.NET\20170509\bin\Interop.ShockwaveFlashObjects.dll
+F:\Data\IT\Development\Salesforce.NET\20170509\bin\Interop.JRO.dll
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.frmCustInfo.resources
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.exe
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.xml
+F:\Data\IT\Development\Salesforce.NET\20170509\obj\Debug\KC01.pdb
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\ResolveAssemblyReference.cache
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmCustInfo.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmInventory.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmPreviewWkstErr.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmPreviewCustList.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmPreviewWksht.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmAbout.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmCustItemRpt.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmCustomerUpdate.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmCustShipUpdate.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmPreviousWkstOrder.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmSetItineraryDate.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmSplash.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmMainScreen.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmWSDefaults.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmSalesPerson.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmCustList.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmOrders.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmWorksheet.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmSeasonSelect.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmErrMsgList.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmWsToXmitList.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmFilesToImportList.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmWsSentViaProComm.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmXmitButNoVal.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmListOrder.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmListWs.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmOrdCodeSelect.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmPurgeDB.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmShipViaSelect.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.frmResetXmit.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.Resources.resources
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.exe.licenses
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.xml
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.pdb
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\Interop.JRO.dll
+F:\Data\IT\Development\Salesforce.NET\20180101\bin\SaleForc.mdb
+F:\Data\IT\Development\Salesforce.NET\20180101\bin\KC01.exe.config
+F:\Data\IT\Development\Salesforce.NET\20180101\bin\KC01.exe
+F:\Data\IT\Development\Salesforce.NET\20180101\bin\KC01.pdb
+F:\Data\IT\Development\Salesforce.NET\20180101\bin\KC01.xml
+F:\Data\IT\Development\Salesforce.NET\20180101\bin\AxInterop.ShockwaveFlashObjects.dll
+F:\Data\IT\Development\Salesforce.NET\20180101\bin\Microsoft.Office.Interop.Access.dll
+F:\Data\IT\Development\Salesforce.NET\20180101\bin\Office.dll
+F:\Data\IT\Development\Salesforce.NET\20180101\bin\dao.dll
+F:\Data\IT\Development\Salesforce.NET\20180101\bin\Microsoft.Vbe.Interop.dll
+F:\Data\IT\Development\Salesforce.NET\20180101\bin\Interop.ShockwaveFlashObjects.dll
+F:\Data\IT\Development\Salesforce.NET\20180101\bin\Interop.JRO.dll
+F:\Data\IT\Development\Salesforce.NET\20180101\obj\Debug\KC01.exe
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\ResolveAssemblyReference.cache
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.exe
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.xml
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.pdb
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\Interop.JRO.dll
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmCustInfo.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmInventory.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmPreviewWkstErr.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmPreviewCustList.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmPreviewWksht.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmAbout.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmCustItemRpt.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmCustomerUpdate.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmCustShipUpdate.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmPreviousWkstOrder.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmSetItineraryDate.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmSplash.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmMainScreen.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmWSDefaults.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmSalesPerson.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmCustList.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmOrders.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmWorksheet.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmSeasonSelect.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmErrMsgList.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmWsToXmitList.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmFilesToImportList.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmWsSentViaProComm.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmXmitButNoVal.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmListOrder.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmListWs.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmOrdCodeSelect.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmPurgeDB.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmShipViaSelect.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.frmResetXmit.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.Resources.resources
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+E:\Dev\016e251c7daafe579c - vb\sales force 20180101\20180101\obj\Debug\KC01.exe.licenses
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\ResolveAssemblyReference.cache
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\Interop.JRO.dll
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmCustInfo.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmPreviewWkstErr.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmPreviewCustList.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmPreviewWksht.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmAbout.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmCustItemRpt.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmCustomerUpdate.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmCustShipUpdate.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmPreviousWkstOrder.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmSetItineraryDate.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmSplash.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmMainScreen.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmWSDefaults.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmSalesPerson.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmCustList.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmOrders.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmWorksheet.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmSeasonSelect.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmErrMsgList.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmWsToXmitList.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmFilesToImportList.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmWsSentViaProComm.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmXmitButNoVal.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmListOrder.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmListWs.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmOrdCodeSelect.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmPurgeDB.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmShipViaSelect.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmResetXmit.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.Resources.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.exe
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.xml
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c - vb.2\sales force 20180101\20180101\obj\Debug\KC01.pdb
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\ResolveAssemblyReference.cache
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\Interop.JRO.dll
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmCustInfo.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmPreviewWkstErr.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmPreviewCustList.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmPreviewWksht.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmAbout.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmCustItemRpt.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmCustomerUpdate.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmCustShipUpdate.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmPreviousWkstOrder.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmSetItineraryDate.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmSplash.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmMainScreen.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmWSDefaults.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmSalesPerson.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmCustList.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmOrders.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmWorksheet.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmSeasonSelect.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmErrMsgList.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmWsToXmitList.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmFilesToImportList.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmWsSentViaProComm.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmXmitButNoVal.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmListOrder.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmListWs.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmOrdCodeSelect.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmPurgeDB.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmShipViaSelect.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmResetXmit.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.Resources.resources
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\Kc01.vbproj.GenerateResource.Cache
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.exe
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.xml
+X:\Mnt\SSD-X\Dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.pdb
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\Kc01.vbprojAssemblyReference.cache
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.exe
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.xml
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.pdb
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\Interop.JRO.dll
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmCustInfo.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmInventory.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmPreviewWkstErr.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmPreviewCustList.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmPreviewWksht.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmAbout.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmCustItemRpt.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmCustomerUpdate.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmCustShipUpdate.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmPreviousWkstOrder.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmSetItineraryDate.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmSplash.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmMainScreen.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmWSDefaults.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmSalesPerson.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmCustList.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmOrders.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmWorksheet.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmSeasonSelect.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmErrMsgList.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmWsToXmitList.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmFilesToImportList.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmWsSentViaProComm.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmXmitButNoVal.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmListOrder.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmListWs.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmOrdCodeSelect.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmPurgeDB.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmShipViaSelect.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.frmResetXmit.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.Resources.resources
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\Kc01.vbproj.GenerateResource.cache
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\KC01.exe.licenses
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\Kc01.vbproj.CoreCompileInputs.cache
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\bin\SaleForc.mdb
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\bin\adodb.dll
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\bin\AxInterop.ShockwaveFlashObjects.dll
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\bin\System.Windows.Forms.DataVisualization.dll
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\bin\Interop.ShockwaveFlashObjects.dll
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\bin\dao.dll
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\bin\Microsoft.Vbe.Interop.dll
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\bin\stdole.dll
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\bin\Microsoft.Office.Interop.Outlook.xml
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\obj\Debug\Kc01.vbproj.CopyComplete
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\bin\KC01.exe.config
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\bin\KC01.exe
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\bin\KC01.pdb
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\bin\KC01.xml
+E:\dev\016e251c7daafe579c-vb.2\sales force 20180101\20180101\bin\Interop.JRO.dll
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\bin\SaleForc.mdb
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\bin\KC01.exe.config
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\bin\KC01.exe
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\bin\KC01.pdb
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\bin\KC01.xml
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\bin\adodb.dll
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\bin\AxInterop.ShockwaveFlashObjects.dll
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\bin\System.Windows.Forms.DataVisualization.dll
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\bin\Interop.ShockwaveFlashObjects.dll
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\bin\stdole.dll
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\bin\Interop.JRO.dll
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\Kc01.vbprojAssemblyReference.cache
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\Interop.JRO.dll
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmCustInfo.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmInventory.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmPreviewWkstErr.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmPreviewCustList.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmPreviewWksht.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmAbout.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmCustItemRpt.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmCustomerUpdate.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmCustShipUpdate.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmPreviousWkstOrder.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmSetItineraryDate.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmSplash.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmMainScreen.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmWSDefaults.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmSalesPerson.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmCustList.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmOrders.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmWorksheet.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmSeasonSelect.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmErrMsgList.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmWsToXmitList.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmFilesToImportList.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmWsSentViaProComm.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmXmitButNoVal.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmListOrder.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmListWs.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmOrdCodeSelect.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmPurgeDB.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmShipViaSelect.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.frmResetXmit.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.Resources.resources
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\Kc01.vbproj.GenerateResource.cache
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.exe.licenses
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\Kc01.vbproj.CoreCompileInputs.cache
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\Kc01.vbproj.CopyComplete
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.exe
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.xml
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\obj\Debug\KC01.pdb
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\bin\Microsoft.VisualBasic.PowerPacks.dll
+E:\dev\016e251c7daafe579c-vb.3\sales force 20180101\20180101\bin\fr\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\Kc01.vbprojAssemblyReference.cache
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.exe
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.xml
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.pdb
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\Interop.JRO.dll
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\Kc01.vbproj.ResolveComReference.cache
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmCustInfo.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmInventory.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmPreviewWkstErr.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmPreviewCustList.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmPreviewWksht.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmAbout.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmCustItemRpt.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmCustomerUpdate.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmCustShipUpdate.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmPreviousWkstOrder.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmSetItineraryDate.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmSplash.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmXmitButNotOnOrder.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmMainScreen.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmWSDefaults.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmSalesPerson.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmCustList.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmOrders.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmWorksheet.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmSeasonSelect.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmErrMsgList.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmWsToXmitList.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmFilesToImportList.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmWsSentViaProComm.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmXmitButNoVal.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmListOrder.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmListWs.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmOrdCodeSelect.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmPurgeDB.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmShipViaSelect.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.frmResetXmit.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.Resources.resources
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\Kc01.vbproj.GenerateResource.cache
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\KC01.exe.licenses
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\Kc01.vbproj.CoreCompileInputs.cache
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\bin\SaleForc.mdb
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\bin\KC01.exe.config
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\bin\KC01.exe
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\bin\KC01.pdb
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\bin\KC01.xml
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\bin\adodb.dll
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\bin\AxInterop.ShockwaveFlashObjects.dll
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\bin\Microsoft.VisualBasic.PowerPacks.dll
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\bin\System.Windows.Forms.DataVisualization.dll
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\bin\Interop.ShockwaveFlashObjects.dll
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\bin\stdole.dll
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\bin\fr\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\bin\Interop.JRO.dll
+E:\016e251c7daafe579c-vb.4\sales force 20180101\20180101\obj\Debug\Kc01.vbproj.CopyComplete

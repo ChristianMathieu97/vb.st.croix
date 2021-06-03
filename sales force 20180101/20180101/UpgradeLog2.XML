@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Kc01">
+</Property><Property Name="Solution File" Value="F:\Data\IT\Development\Salesforce.NET\20160111\Kc01.sln">
+</Property><Property Name="Date" Value="Monday, January 11, 2016">
+</Property><Property Name="Time" Value="14:57:32 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Kc01" Source="Kc01.vbproj" Description="Project file successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\Kc01.vbproj">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="Kc01.vbproj.user" Description="Project user file successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\Kc01.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="API.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\API.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="ApplicationEvents.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="AssemblyInfo.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="basOutlookContacts.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\basOutlookContacts.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="basPublicVars.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\basPublicVars.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="Class1.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\Class1.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="basImport.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\basImport.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmInventory.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmInventory.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmInventory.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmInventory.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmPreviewWkstErr.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmPreviewWkstErr.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmPreviewWkstErr.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmPreviewWkstErr.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="basZip.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\basZip.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="basFTP.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\basFTP.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="Module1.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\Module1.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="My Project\Application.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="SaleForcDataSet.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\SaleForcDataSet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="SaleForcDataSet.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\SaleForcDataSet.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="Settings.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\Settings.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="CustomerListReport.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\CustomerListReport.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmPreviewCustList.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmPreviewCustList.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmPreviewCustList.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmPreviewCustList.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmPreviewWksht.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmPreviewWksht.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmPreviewWksht.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmPreviewWksht.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmAbout.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmAbout.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmAbout.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmAbout.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmCustItemRpt.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmCustItemRpt.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmCustItemRpt.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmCustItemRpt.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmCustomerUpdate.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmCustomerUpdate.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmCustomerUpdate.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmCustomerUpdate.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmCustShipUpdate.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmCustShipUpdate.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmCustShipUpdate.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmCustShipUpdate.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmPreviousWkstOrder.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmPreviousWkstOrder.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmPreviousWkstOrder.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmPreviousWkstOrder.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmSetItineraryDate.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmSetItineraryDate.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmSetItineraryDate.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmSetItineraryDate.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmSplash.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmSplash.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmSplash.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmSplash.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmXmitButNotOnOrder.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmXmitButNotOnOrder.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmXmitButNotOnOrder.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmXmitButNotOnOrder.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmMainScreen.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmMainScreen.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmMainScreen.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmMainScreen.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmWSDefaults.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmWSDefaults.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmWSDefaults.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmWSDefaults.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmSalesPerson.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmSalesPerson.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmSalesPerson.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmSalesPerson.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="basCustInfo.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\basCustInfo.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmCustInfo.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmCustInfo.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmCustInfo.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmCustInfo.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmCustList.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmCustList.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmCustList.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmCustList.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmOrders.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmOrders.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmOrders.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmOrders.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmWorksheet.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmWorksheet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmWorksheet.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmWorksheet.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmSeasonSelect.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmSeasonSelect.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmSeasonSelect.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmSeasonSelect.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="basGeneralProcedures.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\basGeneralProcedures.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmErrMsgList.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmErrMsgList.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmErrMsgList.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmErrMsgList.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmWsToXmitList.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmWsToXmitList.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmWsToXmitList.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmWsToXmitList.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmFilesToImportList.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmFilesToImportList.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmFilesToImportList.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmFilesToImportList.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmWsSentViaProComm.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmWsSentViaProComm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmWsSentViaProComm.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmWsSentViaProComm.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmXmitButNoVal.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmXmitButNoVal.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmXmitButNoVal.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmXmitButNoVal.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmListOrder.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmListOrder.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmListOrder.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmListOrder.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmListWs.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmListWs.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmListWs.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmListWs.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmOrdCodeSelect.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmOrdCodeSelect.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmOrdCodeSelect.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmOrdCodeSelect.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmPurgeDB.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmPurgeDB.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmPurgeDB.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmPurgeDB.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmShipViaSelect.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmShipViaSelect.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmShipViaSelect.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmShipViaSelect.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmResetXmit.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmResetXmit.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmResetXmit.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmResetXmit.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="basUtilRoutines.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\basUtilRoutines.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="UpgradeSupport.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\UpgradeSupport.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="WkstAndMemoReport.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\WkstAndMemoReport.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="WkstErrReport.vb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\WkstErrReport.vb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="Creating a Setup and Deployment Project.docx" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\Creating a Setup and Deployment Project.docx">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="My Project\Application.myapp" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="app.config" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="Kc01_1_TemporaryKey.pfx" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\Kc01_1_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="Kc01_TemporaryKey.pfx" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\Kc01_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="My Project\app.manifest" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="My Project\Settings.settings" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="SaleForcDataSet.xsc" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\SaleForcDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="SaleForcDataSet.xsd" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\SaleForcDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="SaleForcDataSet.xss" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\SaleForcDataSet.xss">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="Kc01.ico" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\Kc01.ico">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="SaleForc.mdb" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\SaleForc.mdb">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmInventory.resx" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmInventory.resx">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmPreviewWkstErr.resx" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmPreviewWkstErr.resx">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="My Project\licenses.licx" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\My Project\licenses.licx">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="CustomerListReport.rpt" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\CustomerListReport.rpt">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmPreviewCustList.resx" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmPreviewCustList.resx">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmPreviewWksht.resx" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmPreviewWksht.resx">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmAbout.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmAbout.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmCustItemRpt.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmCustItemRpt.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmCustomerUpdate.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmCustomerUpdate.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmCustShipUpdate.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmCustShipUpdate.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmPreviousWkstOrder.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmPreviousWkstOrder.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmSetItineraryDate.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmSetItineraryDate.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmSplash.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmSplash.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmXmitButNotOnOrder.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmXmitButNotOnOrder.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmMainScreen.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmMainScreen.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmWSDefaults.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmWSDefaults.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmSalesPerson.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmSalesPerson.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmCustInfo.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmCustInfo.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmCustList.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmCustList.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmOrders.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmOrders.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmWorksheet.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmWorksheet.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmSeasonSelect.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmSeasonSelect.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmErrMsgList.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmErrMsgList.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmWsToXmitList.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmWsToXmitList.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmFilesToImportList.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmFilesToImportList.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmWsSentViaProComm.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmWsSentViaProComm.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmXmitButNoVal.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmXmitButNoVal.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmListOrder.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmListOrder.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmListWs.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmListWs.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmOrdCodeSelect.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmOrdCodeSelect.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmPurgeDB.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmPurgeDB.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmShipViaSelect.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmShipViaSelect.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="frmResetXmit.resX" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\frmResetXmit.resX">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="My Project\Resources.resx" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="WkstAndMemoReport.rpt" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\WkstAndMemoReport.rpt">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="WkstErrReport.rpt" Description="File successfully backed up as F:\Data\IT\Development\Salesforce.NET\20160111BAKUP\Backup\WkstErrReport.rpt">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="Kc01.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Kc01" Source="Kc01.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Kc01" Source="Kc01.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

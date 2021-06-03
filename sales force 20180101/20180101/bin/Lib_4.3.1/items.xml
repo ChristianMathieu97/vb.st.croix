@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfItemInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ItemInfo>
+    <StartTime>2011-02-01T01:30:00</StartTime>
+    <EndTime>2011-02-01T02:00:00</EndTime>
+    <Text>Angelo</Text>
+    <A>255</A>
+    <R>255</R>
+    <G>215</G>
+    <B>0</B>
+  </ItemInfo>
+  <ItemInfo>
+    <StartTime>2011-12-02T03:00:00</StartTime>
+    <EndTime>2011-12-02T03:30:00</EndTime>
+    <Text>test of calendar</Text>
+    <A>255</A>
+    <R>255</R>
+    <G>0</G>
+    <B>0</B>
+  </ItemInfo>
+  <ItemInfo>
+    <StartTime>2011-12-03T01:30:00</StartTime>
+    <EndTime>2011-12-03T03:00:00</EndTime>
+    <Text>test of calendar</Text>
+    <A>255</A>
+    <R>0</R>
+    <G>128</G>
+    <B>0</B>
+  </ItemInfo>
+  <ItemInfo>
+    <StartTime>2011-12-03T01:30:00</StartTime>
+    <EndTime>2011-12-03T03:00:00</EndTime>
+    <Text>Ken's Test</Text>
+    <A>255</A>
+    <R>0</R>
+    <G>128</G>
+    <B>0</B>
+  </ItemInfo>
+</ArrayOfItemInfo>
